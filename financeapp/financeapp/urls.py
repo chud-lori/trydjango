@@ -8,3 +8,4 @@ urlpatterns = patterns('',
 
     url(r'^admin/', include(admin.site.urls)),
 )
+# end of line comment
