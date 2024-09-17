@@ -11,6 +11,8 @@ def print_hi(name):
 def function_main_lws_01(value):
     print(f"Value received: {value}")
 
+# Changes Required 1: QA Feedback
+
 
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
